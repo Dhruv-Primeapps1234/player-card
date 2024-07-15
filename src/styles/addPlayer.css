@@ -1,0 +1,63 @@
+.add-player-form {
+    text-align: center;
+    padding: 40px;
+    /* max-width: 600px; */
+    margin: 0 auto;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    background-color: white;
+    border-radius: 8px;
+  }
+  .add_update_btn{
+    text-align: end;
+  }
+  
+  h1 {
+    font-size: 36px;
+    margin-bottom: 16px;
+  }
+  
+  p {
+    font-size: 18px;
+    /* margin-bottom: 32px; */
+    color: #666;
+  }
+  
+  .form-group {
+    margin-bottom: 20px;
+    text-align: left;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 8px;
+    font-weight: bold;
+  }
+  
+  input {
+    width: 100%;
+    padding: 8px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .add-update-player-button {
+    padding: 10px 20px;
+    font-size: 16px;
+    color: white;
+    background-color: #000;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer !important;
+    margin-top: 20px;
+    align-self: flex-end;
+  }
+  
+  .add-player-button:hover {
+    background-color: #333;
+  }
+  .form_groups{
+    text-align: left;
+    margin-top: 20px
+  }
+  

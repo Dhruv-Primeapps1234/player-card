@@ -1,0 +1,62 @@
+{
+  "players": [
+    {
+      "id": "1",
+      "name": "Rohit Sharma",
+      "country": "India",
+      "role": "Batsman",
+      "initial": "R"
+    },
+    {
+      "id": "2",
+      "name": "Ben Stokes",
+      "country": "England",
+      "role": "All-rounder",
+      "initial": "B"
+    },
+    {
+      "id": "3",
+      "name": "Virat Kohli",
+      "country": "India",
+      "role": "'Batsman"
+    },
+    {
+      "id": "4",
+      "name": "Quinton de Kock",
+      "country": "South Africa",
+      "role": "Wicket-keeper",
+      "initial": "Q"
+    },
+    {
+      "id": "5",
+      "name": "Pat Cummins",
+      "country": "Australia",
+      "role": "Bowler"
+    },
+    {
+      "id": "6",
+      "name": "Rashid Khan",
+      "country": "Afghanistan",
+      "role": "Bowler"
+    },
+    {
+      "id": "7",
+      "name": "Kane Williamson",
+      "country": "New Zealand",
+      "role": "Batsman"
+    },
+    {
+      "id": "8",
+      "name": "Jasprit Bumrah",
+      "country": "India",
+      "role": "Bowler"
+    },
+    {
+      "id": "af22",
+      "name": "Dhoni ",
+      "country": "India",
+      "role": "WK",
+      "initial": "D"
+    }
+  ]
+}
